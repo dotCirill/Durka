@@ -1,0 +1,12 @@
+.stitle::before {
+    content: " ";
+    color: rgba(50, 50, 50, 100);
+}
+
+.stitle {
+    font-size: 1em;
+    font-weight: bolder;
+    border-bottom-style: dashed;
+    border-bottom-color: seagreen;
+    border-width: 1px;
+}
