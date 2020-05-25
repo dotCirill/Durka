@@ -84,13 +84,13 @@ $\iff \mathcal{A}e_j = \lambda e_j \xrightarrow{e}
 <span class="stitle"> Доказательство </span>
 1. $x = x_1e_1 + \ldots + x_ne_n$
     
-    $y = y_1e_1 + \ldots + y_ne_n$
-    
-    $(x,y) = x_1y_1 + \ldots + x_ny_n = (X,Y)$, т.к. 
-    $(e_i, e_j) = \begin{cases}
-        0 & i \ne j \\
-        1 & i = j
-    \end{cases}$
+   $y = y_1e_1 + \ldots + y_ne_n$
+   
+   $(x,y) = x_1y_1 + \ldots + x_ny_n = (X,Y)$, т.к. 
+   $(e_i, e_j) = \begin{cases}
+       0 & i \ne j \\
+       1 & i = j
+   \end{cases}$
     
 2. Следует из первого пункта.
 
