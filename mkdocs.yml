@@ -1,5 +1,6 @@
 site_name: Дурка
-
+repo_url: https://github.com/dotcirill/Durka
+repo_name: Github
 theme: 
   name: material
   language: ru
