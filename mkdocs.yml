@@ -1,8 +1,4 @@
 site_name: Дурка
-nav:
-    - Что это: index.md
-    - Матан:
-      - Лекция 1: ./math/a.md
 
 theme: 
   name: material
