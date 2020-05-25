@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: dotcirill/Durka
   branch: master
 
 public_folder: "site"
