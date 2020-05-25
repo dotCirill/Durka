@@ -38,5 +38,6 @@ plugins:
         lang:
           - ru
           - en
+    - git-revision-date-localized
 
 copyright: Дурка
