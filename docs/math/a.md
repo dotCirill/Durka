@@ -82,6 +82,7 @@ $\iff \mathcal{A}e_j = \lambda e_j \xrightarrow{e}
 2. Векторы ортогональны $\iff$ ортогональны их координатные столбцы в ортонормированном базисе.
 
 <span class="stitle"> Доказательство </span>
+
 1. $x = x_1e_1 + \ldots + x_ne_n$
     
    $y = y_1e_1 + \ldots + y_ne_n$
