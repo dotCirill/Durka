@@ -64,7 +64,8 @@ $\left[
 
     * если $\alpha = 0$, то $\alpha \cdot x = \bold{0}$ (по 1п.) 
     * если $\alpha \ne 0$, то умножаем на $\frac{1}{\alpha} (\frac{1}{\alpha}\alpha x = \frac{1}{\alpha} \cdot \bold{0} \Rightarrow x = \bold{0})$
-4. Пусть $U = c \cdot x (c \in \bold{R, C}, x \in L)$. Тогда $-U=(-c) \cdot x$. В частности, $-x = -1 \cdot x  \hspace{1cm} 0 \cdot x = (c-c)\cdot x = c\cdot x-c\cdot x$. Сл-но, $-U = -c \cdot x$
+  
+1. Пусть $U = c \cdot x (c \in \bold{R, C}, x \in L)$. Тогда $-U=(-c) \cdot x$. В частности, $-x = -1 \cdot x  \hspace{1cm} 0 \cdot x = (c-c)\cdot x = c\cdot x-c\cdot x$. Сл-но, $-U = -c \cdot x$
 
 ## Собственные числа и собственные вектора оператора. Матрица оператора в базисе из собственных векторов.
 
