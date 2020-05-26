@@ -15,8 +15,9 @@ title: 2 сем что-то
 Обозначение: **0**. (ноль с толстой ногой гыгыгы)
 
 <span class="stitle"> Замечание: </span>
+
 1. Если $\exists$ н.э., то он $\exists!$. 
-2. Если $\exists$ эл. -$a$, противоположный $a$, то он $\exists!$
+2. Если $\exists$ эл. $-a$, противоположный $a$, то он $\exists!$
 
 ### Определение 2
 Пусть в $A$ вв-на б.о. Если она обладает св-вами 2, 3, 4, то $A$ наз. **группой**. Если ещё и выполнено св-во 1, то $A$ наз. **абелевой группой**
@@ -51,7 +52,7 @@ title: 2 сем что-то
 
 Тогда $L$ наз. **линейным** ($\Leftrightarrow$ векторным) **пространством**. Эл-ты $L$ наз. векторами.
 
-### Лемма 1.1 "Свойства операции умножения на скаляр"
+### Лемма 1.1. Свойства операции умножения на скаляр
 1. $0 \cdot x =$ **0**  $\forall x \in L \hspace{0.25cm} (0 \cdot x = v \in L; \exists (-v) \hspace{1cm} (0 \cdot x) = (0+0) \cdot x = 0 \cdot x + 0 \cdot x$ т.е. $v+v=v/+(-v) \Leftrightarrow -v+v+v=-v+v \Leftrightarrow v=\textbf{0} => \textbf{0} = 0 \cdot x)$
 2. $\alpha \cdot 0 = \bold{0} \hspace{1cm} \forall \alpha \in \bold{R, C}$
 3. $\alpha \cdot x = \bold{0} \Leftrightarrow$

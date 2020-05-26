@@ -5,6 +5,11 @@ title: Дурка
 !!! note "Заметочка"
     Дурка
 
+
+-- lol
+...
+<< lol >>
+
 <div id="adf"> </div>
 
 !!! warning

@@ -26,6 +26,8 @@ extra_javascript:
 markdown_extensions:
     - toc:
         permalink: true
+    - smarty:
+        smart_angled_quotes: true
     - admonition
     - pymdownx.details
     - pymdownx.superfences
