@@ -48,13 +48,15 @@ title: 2 сем что-то
 1. $1 \cdot x = x$
 2. $(\alpha \beta)\cdot x = \alpha \cdot (\beta x )$
 3. $(\alpha + \beta) \cdot x = \alpha x + \beta x$
-4. $\alpha \cdot (x+y) = \alpha x + \alpha y \hspace{0.5cm}  \forall x, y \in L; \forall \alpha, \beta \in R ( C)$
+4. $\alpha \cdot (x+y) = \alpha x + \alpha y \hspace{0.5cm}  \forall x, y \in L; \forall \alpha, \beta \in \mathbb{R, C}$
 
 Тогда $L$ наз. **линейным** ($\Leftrightarrow$ векторным) **пространством**. Эл-ты $L$ наз. векторами.
 
 ### Лемма 1.1. Свойства операции умножения на скаляр
 1. $0 \cdot x =$ **0**  $\forall x \in L \hspace{0.25cm} (0 \cdot x = v \in L; \exists (-v) \hspace{1cm} (0 \cdot x) = (0+0) \cdot x = 0 \cdot x + 0 \cdot x$ т.е. $v+v=v/+(-v) \Leftrightarrow -v+v+v=-v+v \Leftrightarrow v=\textbf{0} => \textbf{0} = 0 \cdot x)$
+
 2. $\alpha \cdot 0 = \bold{0} \hspace{1cm} \forall \alpha \in \mathbb{R, C}$
+
 3. $\alpha \cdot x = \bold{0} \Leftrightarrow$
 $\left[
       \begin{gathered}
@@ -62,10 +64,19 @@ $\left[
         x = \bold{0} \\
       \end{gathered}
 \right.$
- * если $\alpha = 0$, то $\alpha \cdot x = \bold{0}$ (по 1п.)
+    * если $\alpha = 0$, то $\alpha \cdot x = \bold{0}$ (по 1п.)
     * если $\alpha \ne 0$, то умножаем на $\frac{1}{\alpha} (\frac{1}{\alpha}\alpha x = \frac{1}{\alpha} \cdot \bold{0} \Rightarrow x = \bold{0})$
-   
-1. Пусть $U = c \cdot x (c \in \mathbb{R, C}, x \in L)$. Тогда $-U=(-c) \cdot x$. В частности, $-x = -1 \cdot x  \hspace{1cm} 0 \cdot x = (c-c)\cdot x = c\cdot x-c\cdot x$. Сл-но, $-U = -c \cdot x$
+
+4. Пусть $U = c \cdot x (c \in\mathbb{R, C}, x \in L)$. Тогда $-U=(-c) \cdot x$. В частности, $-x = -1 \cdot x  \hspace{1cm} 0 \cdot x = (c-c)\cdot x = c\cdot x-c\cdot x$. Сл-но, $-U = -c \cdot x$
+#### Пример
+Пусть $L$ -- множество многочленов степени $\le n$. В $L$ вв. оп. $+$, отн. кот. $L$ -- абелева группа (здесь **0** -- многочлен, равный $0 \forall x$ или многочлен, все коэффициенты кот-го равны 0). В $L$ также вв. оп. умножения многочлена на число, для кот-й выполнены все требуемые св-ва. Сл-но, $L$ -- ЛП.
+#### Определение 1.2.
+Пусть $L$ -- ЛП, $e = \{e_1, e_2, \dots e_n\}$ -- система (т.е. совокупность) пекторов из $L$. Вектор $c_1\cdot e_1+c_2\cdot e_2+\ldots+c_n\cdot e+n (c_1, \ldots c_n \in \mathbb{R, C})$ наз. **линейной комбинацией** (ЛК) системы e. Числа  $c_1, \ldots, c_n$ наз. коэффициентами этой ЛК.
+#### Лемма 1.2.
+Линейная комбинация линейных комбинаций векторов $e_1, \ldots, e_n$ есть линейная комбинация векторов $e_1, \ldots, e_n$.
+
+<span class="stitle"> Доказательство: </span>
+>>>>>>> 613eaf48bcbda7614da70a0edc4f76608f111f2c
 
 ## Собственные числа и собственные вектора оператора. Матрица оператора в базисе из собственных векторов.
 
