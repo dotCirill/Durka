@@ -29,7 +29,7 @@ Pygments==2.6.1
 pymdown-extensions==7.1
 Pyphen==0.9.5
 pytz==2020.1
-PyYAML==5.3.1
+PyYAML==5.4
 regex==2020.5.14
 six==1.15.0
 smmap==3.0.4
