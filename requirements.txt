@@ -25,7 +25,7 @@ mkdocs-material-extensions==1.0
 nltk==3.5
 Pillow==7.1.2
 pycparser==2.20
-Pygments==2.6.1
+Pygments==2.7.4
 pymdown-extensions==7.1
 Pyphen==0.9.5
 pytz==2020.1
